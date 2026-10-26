@@ -1,0 +1,44 @@
+{
+  "tests": "typecheck and all 16 tests passed; full-cycle left elbow/arm lengths, phone identity, pocket occlusion, field order/ownership and determinism",
+  "checks": [
+    {
+      "file": "videos/preview-1080p.mp4",
+      "size": [
+        1920,
+        1080
+      ],
+      "frames": 270,
+      "fps": 30,
+      "full_decode": true,
+      "faststart": true,
+      "bytes": 7698825,
+      "sha256": "d25efe9934454f00926cb132ffb9b3d1b932bfd8ca0039bd7a91e448f97eca20"
+    },
+    {
+      "file": "videos/preview-720p.mp4",
+      "size": [
+        1280,
+        720
+      ],
+      "frames": 270,
+      "fps": 30,
+      "full_decode": true,
+      "faststart": true,
+      "bytes": 2947754,
+      "sha256": "2760a8b338c7816fa5972329605bd68c9546d1367bd566de51277c211e62ad2a"
+    },
+    {
+      "file": "videos/hand-detail-720p.mp4",
+      "size": [
+        1280,
+        720
+      ],
+      "frames": 180,
+      "fps": 30,
+      "full_decode": true,
+      "faststart": true,
+      "bytes": 3033187,
+      "sha256": "9492c2fa273380afa55afdf773d07f1c11f4a98e9259aa579d54d173b26b6679"
+    }
+  ]
+}

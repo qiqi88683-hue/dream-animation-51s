@@ -1,8 +1,8 @@
 [
   {
     "file": "README.md",
-    "bytes": 1238,
-    "sha256": "386e82e3b14807f0985e8312f0af03c1c6a1ceb809936146b92b576ebed2c9db"
+    "bytes": 1302,
+    "sha256": "066aa14c70ed57e07dfc22b3f4f335e4a137f898256104b4c9fb4f8ef626d440"
   },
   {
     "file": "downloads/v05-preview.zip",
@@ -11,8 +11,8 @@
   },
   {
     "file": "feedback.md",
-    "bytes": 955,
-    "sha256": "82b89f4a5cedf78e2e4efa9b57fe0f6a645bbc95cda7c46a4414ce8e8029ec0b"
+    "bytes": 1681,
+    "sha256": "68ef44ebde70cf66c4724a3b9cd184746a0c9a5795fe3c6bd5b6666817b39fb4"
   },
   {
     "file": "index.html",
@@ -61,8 +61,8 @@
   },
   {
     "file": "version.json",
-    "bytes": 298,
-    "sha256": "c8053b7c5f499bbfdfabbd54c9c5a942ca5b67468de1506ca2ff45cdb8914a6d"
+    "bytes": 333,
+    "sha256": "550053b8dc8b964f7acafb8ff666a25a01be9c009bd65e71a86451ec8fc22b79"
   },
   {
     "file": "videos/preview-1080p.mp4",

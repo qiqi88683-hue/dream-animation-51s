@@ -1,6 +1,7 @@
 {
-  "latest": "v05-parallel",
+  "latest": "v06-details",
   "versions": [
+    "v06-details",
     "v05-parallel",
     "v04-sidewalk",
     "v03-painted",

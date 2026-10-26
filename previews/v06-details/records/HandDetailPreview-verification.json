@@ -1,0 +1,13 @@
+{
+  "createdAt": "2026-10-26T16:09:18.343Z",
+  "composition": "HandDetailPreview",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 180,
+  "seconds": 6,
+  "independentFrameHash": "1cd742f3b78f833e74af72c8d82324bcf72209889dc13c8342da28981751f48e",
+  "determinism": true,
+  "browserErrors": [],
+  "method": "ordered continuous parallel-curve relief field; coarse strokes and local shadow line density; no painted image textures"
+}
