@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-26",
+  "reference": "User-provided hand made of parallel curves, visible in the current conversation; no original file was copied or fabricated",
+  "method": "procedural Canvas parallel relief/density field, driven by corrected anatomical gait; no painted image textures",
+  "source_files": [
+    "src/parallel/field.ts",
+    "src/parallel/ParallelPreview.tsx",
+    "src/parallel/GaitCheck.tsx",
+    "src/spatial/gait.ts"
+  ],
+  "joint_fix": "independent bendSign: knee +1, elbow -1 in local forward +Z; no pre-bent painted limb textures",
+  "audio": "temporary procedural city ambient only",
+  "approval": "pending user review"
+}

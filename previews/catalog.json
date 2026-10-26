@@ -1,6 +1,7 @@
 {
-  "latest": "v04-sidewalk",
+  "latest": "v05-parallel",
   "versions": [
+    "v05-parallel",
     "v04-sidewalk",
     "v03-painted",
     "v02-style",
