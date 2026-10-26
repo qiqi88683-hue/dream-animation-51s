@@ -1,0 +1,27 @@
+[
+  {
+    "file": "DialogueStudy-prototype-540p.mp4",
+    "bytes": 1760665,
+    "sha256": "1c7489eb88b1c75468e3fa016b4340d03b372c438295cb862917ddf0931209ff"
+  },
+  {
+    "file": "README.md",
+    "bytes": 366,
+    "sha256": "930c0e25718b757427ec3c895da86a3ceeefb5e84cfb94645e70e7a8f7289179"
+  },
+  {
+    "file": "Shot01-prototype-540p.mp4",
+    "bytes": 2003487,
+    "sha256": "7fd0553ffc08f887fb389005578e2d628826513bebe63683a37406375bd38b48"
+  },
+  {
+    "file": "index.html",
+    "bytes": 1244,
+    "sha256": "189399023ea3b39ec26d36d48905024c07bcbee1b3089526cfb8e80bb9b73b94"
+  },
+  {
+    "file": "style-board.png",
+    "bytes": 333233,
+    "sha256": "891854370d82e8e0ec7d80e186c59b9762da059affadc9ce99520f76cf61eccd"
+  }
+]
