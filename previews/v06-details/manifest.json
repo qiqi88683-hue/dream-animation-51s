@@ -1,8 +1,8 @@
 [
   {
     "file": "README.md",
-    "bytes": 1615,
-    "sha256": "d3c47df580b00623ef07c818a43212a3fe0d63e4eabd7b707cf865f4aecaad85"
+    "bytes": 1679,
+    "sha256": "0173893747f934b0b72484164ba71ac801cdac27a0069cf60c6f6fa5bb72afa1"
   },
   {
     "file": "downloads/v06-preview.zip",
@@ -11,8 +11,8 @@
   },
   {
     "file": "feedback.md",
-    "bytes": 1296,
-    "sha256": "e057e7a26dffb351232678f7475651e2a5635605436ce9cb65f39e5d97e8425d"
+    "bytes": 1633,
+    "sha256": "5d93d7c81feb621b12fe5191c8037a0316f7d3cc9aa1348f5a68b8a5a14b3a0a"
   },
   {
     "file": "index.html",
@@ -66,8 +66,8 @@
   },
   {
     "file": "version.json",
-    "bytes": 322,
-    "sha256": "b0606e2c8a2137a59da466dc94352cf80f8741c8361a1e4e42e9659f4b4ce6ae"
+    "bytes": 323,
+    "sha256": "416bd5d49cc7538998c340b98ca8b6a801256c2e713f6171b4a4070e40258e7b"
   },
   {
     "file": "videos/hand-detail-720p.mp4",

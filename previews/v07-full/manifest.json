@@ -1,0 +1,162 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 2363,
+    "sha256": "4dc36edb44de4abc9354beac1ea66ead0e62b28d73156958cbd97bad349c6d69"
+  },
+  {
+    "file": "downloads/v07-film.zip",
+    "bytes": 49652001,
+    "sha256": "07162ab324b2fa637d6fa03178b3ee125568242463e32a3687853ab96eaf8cc1"
+  },
+  {
+    "file": "feedback.md",
+    "bytes": 1073,
+    "sha256": "0e567914c07f7c330edb8f094b79d3ac389ecd89de942501d589713c28731be3"
+  },
+  {
+    "file": "index.html",
+    "bytes": 1050,
+    "sha256": "4d6d3c83606aaa45c50d976997940cc2dbb02c6448766d3853f64f92f234c38f"
+  },
+  {
+    "file": "records/LICENSE-Kokoro-Apache-2.0.txt",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "file": "records/LICENSE-NotoSansCJK.txt",
+    "bytes": 4301,
+    "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+  },
+  {
+    "file": "records/audio-provenance.json",
+    "bytes": 2622,
+    "sha256": "dd056bc2443034a305330c2132e52d52d5d07363a2473e34cb48ca65e0f4c608"
+  },
+  {
+    "file": "records/dialogue.zh.srt",
+    "bytes": 173,
+    "sha256": "4b14a9b0cff530e63d89325aec36c18ea447d2f297d23f5942659e036c84f67f"
+  },
+  {
+    "file": "records/shot-01.json",
+    "bytes": 398,
+    "sha256": "7a5dd48dd3257828b1c819ea97a1ed15b0dc319362ba7e1c0b8001732b298088"
+  },
+  {
+    "file": "records/shot-02.json",
+    "bytes": 400,
+    "sha256": "8ee5dd04a0d611bba7a219d64ef50fba6cb4659f02318018f3709e9f677ae4dc"
+  },
+  {
+    "file": "records/shot-03.json",
+    "bytes": 399,
+    "sha256": "54182237b2ff9d92d2ba5c5a2a1a521373260210fc425b9957308dae5585bfb6"
+  },
+  {
+    "file": "records/shot-04.json",
+    "bytes": 400,
+    "sha256": "986839381789219e8c28a814a1bcf47ff08a42db2e32ed9a0d519b25e52f6751"
+  },
+  {
+    "file": "records/shot-05.json",
+    "bytes": 400,
+    "sha256": "14653118c3817a598076d5635f96531af991972b44d4dfc74f3357a2bbddd079"
+  },
+  {
+    "file": "records/shot-06.json",
+    "bytes": 401,
+    "sha256": "918d6a6ad56961195973cead771baf9da6e73d06b0be1e995104451461f6355e"
+  },
+  {
+    "file": "records/shot-07.json",
+    "bytes": 401,
+    "sha256": "0b19befdcb0efdf780d19a80325225870a29238b1850bae8b35f59b03acb8572"
+  },
+  {
+    "file": "records/source-sha256.json",
+    "bytes": 5250,
+    "sha256": "15abf054ea38809179ea1bb55ad3d2f8a21b46cde0f56c3a3e5121d0159cef50"
+  },
+  {
+    "file": "records/still-verification.json",
+    "bytes": 144,
+    "sha256": "66eeef3697f178db3e56f14cc893bfedb74c62090988ddbcaa161bd91e4ce60a"
+  },
+  {
+    "file": "records/verification.json",
+    "bytes": 5599,
+    "sha256": "4f04a63876653cf567f49c6083f065bcce7ddd45b5be6b1020be245598600419"
+  },
+  {
+    "file": "stills/aerial.png",
+    "bytes": 1190252,
+    "sha256": "74d9aff61c3649e9316804a13410a353a7a4cee297614c2a913f5c39e28e338d"
+  },
+  {
+    "file": "stills/back.png",
+    "bytes": 1355087,
+    "sha256": "e82689d525443194c2aee8783a8b6516c4e09b72616297e84e8fec1cb7e1dac2"
+  },
+  {
+    "file": "stills/bench.png",
+    "bytes": 1661675,
+    "sha256": "15716498c0b13b5c67a3ea43d14ba69d6be9bda23dee7fa26aac3797a04adbd4"
+  },
+  {
+    "file": "stills/chest.png",
+    "bytes": 1033212,
+    "sha256": "09cc0f68a3d6fd975296fd2a22334d2ead11de0c26ef9039b0d3b48cd2c749bf"
+  },
+  {
+    "file": "stills/decline.png",
+    "bytes": 1182987,
+    "sha256": "a2b42da89fb63d7d857335b0b97b419d29bac188450c4b004f89776e9d33360a"
+  },
+  {
+    "file": "stills/fade.png",
+    "bytes": 627626,
+    "sha256": "d7ea7115f5e423f54acb27890a271431c66f42d67b4016467820ddcf479adf42"
+  },
+  {
+    "file": "stills/incoming.png",
+    "bytes": 1286994,
+    "sha256": "b13fad9369cb4a81fc5365a3e451d71c327992337808ad642da2e54ebe63cfef"
+  },
+  {
+    "file": "stills/music.png",
+    "bytes": 1283014,
+    "sha256": "adab25221287ec8196953f93fb74827c71b0bd4abf8b29f553b65e603072ad95"
+  },
+  {
+    "file": "stills/poster.png",
+    "bytes": 1250543,
+    "sha256": "827fff021ebfd30935d1b88364b45e0b53bc544b5f83d77cc9e7918da8438b66"
+  },
+  {
+    "file": "stills/seven-shots.png",
+    "bytes": 1409345,
+    "sha256": "274cb55614366950db1dc18554a56d166204cccf19066176c4825428bc8e580a"
+  },
+  {
+    "file": "stills/white.png",
+    "bytes": 34421,
+    "sha256": "ef95badf05e346654d795f1ab827f76463a0b40f760379a7c879aaf735235237"
+  },
+  {
+    "file": "version.json",
+    "bytes": 426,
+    "sha256": "d4999ae4c3fc959eb948b3ab27d923e5314ad4353644ad604060cc5d41d962db"
+  },
+  {
+    "file": "videos/dream-51s-1080p.mp4",
+    "bytes": 57379065,
+    "sha256": "18913c6a85ac5e5f7359309fea3cf8f7d22c27f486be90987a071341832c2661"
+  },
+  {
+    "file": "videos/dream-51s-720p.mp4",
+    "bytes": 37443868,
+    "sha256": "0b10280410211b951f037649b9096a1fabfb3fad87432283655db9a98fb6b16b"
+  }
+]

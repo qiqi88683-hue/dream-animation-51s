@@ -1,0 +1,13 @@
+{
+  "id": "FilmShot04",
+  "sourceHash": "cfd4a31806d9dc0e1945cab6a41b543e23157546aa7e1bb900bdf074f5e96064",
+  "start": 720,
+  "frames": 120,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "codec": "h264",
+  "browserErrors": [],
+  "semanticHash": "60d460960656924e04fed0abf1cb29ee5ff540d3b2fe60936a8f1f1613262e24",
+  "baseHash": "97ba3f09d4266eb8e7e5283d9fcfd35fe3249af92805c515a222d1f7be9f908d"
+}

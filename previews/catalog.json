@@ -1,6 +1,7 @@
 {
-  "latest": "v06-details",
+  "latest": "v07-full",
   "versions": [
+    "v07-full",
     "v06-details",
     "v05-parallel",
     "v04-sidewalk",
@@ -8,5 +9,8 @@
     "v02-style",
     "v01-vector"
   ],
-  "feedback_log": "../feedback/2026-10-26.md"
+  "feedback_log": "../feedback/2026-10-27.md",
+  "earlier_feedback_logs": [
+    "../feedback/2026-10-26.md"
+  ]
 }
