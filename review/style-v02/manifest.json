@@ -1,0 +1,42 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 1822,
+    "sha256": "87be71af4f5ee50f34b4bb52fe2462f06f45dbb928098f6fd593bb2d5e967264"
+  },
+  {
+    "file": "dense-curves-direction.png",
+    "bytes": 3856377,
+    "sha256": "20a9b435dd3dbd60084e7f23a6ad3136bde12685d55c67bd7cba7d5186ce520d"
+  },
+  {
+    "file": "index.html",
+    "bytes": 1311,
+    "sha256": "3d1fc29c07432b15d93998b195c69d10cb81592523c0011a504256ecc9895d1a"
+  },
+  {
+    "file": "oil-sketch-direction.png",
+    "bytes": 3169676,
+    "sha256": "2bde947a589e34aa07d03d756c7f1835c3debf71051a9519ec25f8e66be9bfd3"
+  },
+  {
+    "file": "provenance.json",
+    "bytes": 559,
+    "sha256": "b625cd876e4363be40f91575d2141911d1049d305415d1b044f344e16ac506a2"
+  },
+  {
+    "file": "stroke-stability-4s.mp4",
+    "bytes": 377751,
+    "sha256": "7d6dc237a4c1c6d51e9ed4c315d09ece63e7ecb907d75008fed09356ccd5d983"
+  },
+  {
+    "file": "stroke-study.png",
+    "bytes": 1343516,
+    "sha256": "f2efeb03e212b2f81a27e7a0ef49e831e26507993a430daab3e1d9fcc8339b48"
+  },
+  {
+    "file": "verification.json",
+    "bytes": 228,
+    "sha256": "e8ed59cc61a5d35c2b6922ba8696888167fb25a980ec9a913099ed44e3c9c8e5"
+  }
+]

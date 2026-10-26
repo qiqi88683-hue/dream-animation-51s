@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-26",
+  "approval": "pending",
+  "concept_images": {
+    "oil-sketch-direction.png": {
+      "source": "image_gen",
+      "role": "generated static art-direction study, not animation"
+    },
+    "dense-curves-direction.png": {
+      "source": "image_gen",
+      "role": "edited art-direction study emphasizing dense curved hatching, not animation"
+    }
+  },
+  "code_study": {
+    "source": "src/painting/flow.ts and StrokeStudy.tsx",
+    "role": "deterministic density and motion experiment, not full painterly character animation"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "composition": "StrokeStudy",
+  "stillsIdentical": true,
+  "sha256": "f2efeb03e212b2f81a27e7a0ef49e831e26507993a430daab3e1d9fcc8339b48",
+  "frames": 120,
+  "fps": 30,
+  "videoSize": [
+    960,
+    540
+  ],
+  "audio": false
+}
