@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-26",
+  "assets": [
+    {
+      "file": "hero-side.png",
+      "sha256": "0e3658604062677ca6cac20de03a0bae02b2b37f2980db3313782753dcfaed71",
+      "source": "image_gen edit of approved B direction",
+      "role": "fixed side-view painted asset"
+    },
+    {
+      "file": "street-side.png",
+      "sha256": "3f0d3a3c6f888d36840bba732544e78ded8b7c3ec277a5e953af91e494857ca0",
+      "source": "image_gen edit of approved B direction",
+      "role": "fixed side-view painted asset"
+    }
+  ],
+  "motion": "gait.ts two-bone IK, stance-foot world lock; paintedHuman.ts curved paint surfaces; SideWalkPreview.tsx Three.js perspective and contact shadows",
+  "scope": "8-second independent side-view walk test, not a finished storyboard shot",
+  "audio": "procedural environment placeholder, no final voices"
+}

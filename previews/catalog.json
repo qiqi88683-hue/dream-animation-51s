@@ -1,0 +1,10 @@
+{
+  "latest": "v04-sidewalk",
+  "versions": [
+    "v04-sidewalk",
+    "v03-painted",
+    "v02-style",
+    "v01-vector"
+  ],
+  "feedback_log": "../feedback/2026-10-26.md"
+}

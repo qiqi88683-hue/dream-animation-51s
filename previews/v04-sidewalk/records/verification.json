@@ -1,0 +1,43 @@
+{
+  "createdAt": "2026-10-26T14:17:38.585Z",
+  "composition": "SideWalkPreview",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 240,
+  "seconds": 8,
+  "determinism": "frame90 PNG SHA256 identical in independent renders",
+  "frame90Sha256": "ff91b5c7c45808696e70be73116a212446c1c9aa94205891fa23445f19302968",
+  "assets": "Curved layered painted surfaces on articulated 3D joints; two-bone IK and locked stance feet; 2.5D, not a photoreal volumetric human",
+  "audio": "procedural ambient placeholder, no final crowd/voice/music",
+  "browserErrors": [],
+  "media_checks": [
+    {
+      "file": "videos/preview-1080p.mp4",
+      "size": [
+        1920,
+        1080
+      ],
+      "fps": 30,
+      "frames": 240,
+      "full_decode": true,
+      "faststart": true,
+      "bytes": 13915880,
+      "sha256": "b63d3905c0ed8c10107f51f53ea51978f9587804003465e56bee05519e1c4ece"
+    },
+    {
+      "file": "videos/preview-720p.mp4",
+      "size": [
+        1280,
+        720
+      ],
+      "fps": 30,
+      "frames": 240,
+      "full_decode": true,
+      "faststart": true,
+      "bytes": 3211492,
+      "sha256": "cfc13f674cfb4e26ae2f288f4a56d7e5bf87018140ea94460c8179bffe32e8a0"
+    }
+  ],
+  "recovered_setup_failure": "Two concurrent software WebGL tabs exceeded initialization timeout; corrected to one render worker and 120s initialization timeout, then completed successfully."
+}

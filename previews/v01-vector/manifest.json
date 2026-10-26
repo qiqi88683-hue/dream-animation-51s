@@ -1,0 +1,57 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 401,
+    "sha256": "51f8559b69da3232d2136e674db67bab861cefa50cf5b73b843ce0cf8fec63d0"
+  },
+  {
+    "file": "downloads/original-v01-vector.zip",
+    "bytes": 4056036,
+    "sha256": "9d6c6b71060f7055199d8ef4ad38b272e54e083427256bacbc5691290e4e517c"
+  },
+  {
+    "file": "feedback.md",
+    "bytes": 1110,
+    "sha256": "3ad74b7ed74d8e06c07844ced12f87dd8004f66273a32ab6b0bc6b6093a5ed46"
+  },
+  {
+    "file": "index.html",
+    "bytes": 689,
+    "sha256": "73033a11102970f1394dd4144581cde5371c26397590b4d84c4a544a34a889d0"
+  },
+  {
+    "file": "records/original-README.md",
+    "bytes": 491,
+    "sha256": "7ceec84bb5da0edd3e97489f96850635b978325106e9f038a84f9cc32a2278d3"
+  },
+  {
+    "file": "records/original-index.html",
+    "bytes": 1244,
+    "sha256": "189399023ea3b39ec26d36d48905024c07bcbee1b3089526cfb8e80bb9b73b94"
+  },
+  {
+    "file": "records/original-manifest.json",
+    "bytes": 726,
+    "sha256": "4e5b05879677757ab938258ac4768c1981e3728bbecef5ef2ba02e7e4218e1f2"
+  },
+  {
+    "file": "stills/style-board.png",
+    "bytes": 333233,
+    "sha256": "891854370d82e8e0ec7d80e186c59b9762da059affadc9ce99520f76cf61eccd"
+  },
+  {
+    "file": "version.json",
+    "bytes": 325,
+    "sha256": "3f8d7763aef9a07c5a5c21d372fc067e9b8792562a5fb631af56a7aa6b52085e"
+  },
+  {
+    "file": "videos/DialogueStudy-prototype-540p.mp4",
+    "bytes": 1760665,
+    "sha256": "1c7489eb88b1c75468e3fa016b4340d03b372c438295cb862917ddf0931209ff"
+  },
+  {
+    "file": "videos/Shot01-prototype-540p.mp4",
+    "bytes": 2003487,
+    "sha256": "7fd0553ffc08f887fb389005578e2d628826513bebe63683a37406375bd38b48"
+  }
+]

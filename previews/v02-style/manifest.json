@@ -1,0 +1,72 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 444,
+    "sha256": "c7670fbf1c55191c56146e53198e5b16e9ad223cd0077c9974ab12c4497b90d5"
+  },
+  {
+    "file": "downloads/original-v02-style.zip",
+    "bytes": 8590024,
+    "sha256": "ce24f5731cb66753e0a1dd31d7a220500722f8a385877a9871206d54d08d31ce"
+  },
+  {
+    "file": "feedback.md",
+    "bytes": 621,
+    "sha256": "384a5555efd0b0e1752dfc9d9ee53cb6aeed9bb6e3fdb9fbd0db06d613c9e12f"
+  },
+  {
+    "file": "index.html",
+    "bytes": 699,
+    "sha256": "60491110cb503fe43c3651253cca6360c4e4d0f7ca4cafa4393b8ce8f8f8c088"
+  },
+  {
+    "file": "records/original-README.md",
+    "bytes": 1959,
+    "sha256": "6920a02fe799860cee933fe2788aa5d005499f42d823ce38b854baf0fae37a39"
+  },
+  {
+    "file": "records/original-index.html",
+    "bytes": 1311,
+    "sha256": "3d1fc29c07432b15d93998b195c69d10cb81592523c0011a504256ecc9895d1a"
+  },
+  {
+    "file": "records/original-manifest.json",
+    "bytes": 1152,
+    "sha256": "b0d2764a516dc318714d75dd71f813cba29edeef1a223be01ad23200925fe79b"
+  },
+  {
+    "file": "records/original-provenance.json",
+    "bytes": 559,
+    "sha256": "b625cd876e4363be40f91575d2141911d1049d305415d1b044f344e16ac506a2"
+  },
+  {
+    "file": "records/original-verification.json",
+    "bytes": 228,
+    "sha256": "e8ed59cc61a5d35c2b6922ba8696888167fb25a980ec9a913099ed44e3c9c8e5"
+  },
+  {
+    "file": "stills/dense-curves-direction.png",
+    "bytes": 3856377,
+    "sha256": "20a9b435dd3dbd60084e7f23a6ad3136bde12685d55c67bd7cba7d5186ce520d"
+  },
+  {
+    "file": "stills/oil-sketch-direction.png",
+    "bytes": 3169676,
+    "sha256": "2bde947a589e34aa07d03d756c7f1835c3debf71051a9519ec25f8e66be9bfd3"
+  },
+  {
+    "file": "stills/stroke-study.png",
+    "bytes": 1343516,
+    "sha256": "f2efeb03e212b2f81a27e7a0ef49e831e26507993a430daab3e1d9fcc8339b48"
+  },
+  {
+    "file": "version.json",
+    "bytes": 335,
+    "sha256": "fdc3a915806b43cc7432b4e2ab0e8c098a79e06219634f46076f1b37b44afc31"
+  },
+  {
+    "file": "videos/stroke-stability-4s.mp4",
+    "bytes": 377751,
+    "sha256": "7d6dc237a4c1c6d51e9ed4c315d09ece63e7ecb907d75008fed09356ccd5d983"
+  }
+]
