@@ -1,6 +1,7 @@
 {
-  "latest": "v07-full",
+  "latest": "v08-revision",
   "versions": [
+    "v08-revision",
     "v07-full",
     "v06-details",
     "v05-parallel",
@@ -12,5 +13,6 @@
   "feedback_log": "../feedback/2026-10-27.md",
   "earlier_feedback_logs": [
     "../feedback/2026-10-26.md"
-  ]
+  ],
+  "technical_route": "../TECHNICAL_ROUTE.md"
 }

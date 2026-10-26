@@ -1,0 +1,7 @@
+{
+  "frame": 1455,
+  "independent_render": true,
+  "sha256": "8b19b23bd42e6efefb893d98e42ca69a5c0ea06dc78d784a9f2e3ff85bef00c6",
+  "determinism": true,
+  "method": "Fresh browser / independent render, including signal scanline distortion and fade"
+}

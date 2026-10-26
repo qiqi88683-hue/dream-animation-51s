@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-27",
+  "request": "Remove all vocal audio",
+  "included": [
+    "traffic",
+    "footsteps-and-bench",
+    "earphone-instrumental",
+    "phone-ring-and-vibration"
+  ],
+  "excluded": [
+    "synthetic dialogue",
+    "crowd murmur",
+    "human breathing",
+    "dialogue reverb",
+    "dialogue captions"
+  ],
+  "vocal_sources": [],
+  "tts_used": false,
+  "sources": "Original deterministic program synthesis only; no human or vocal recordings",
+  "stems": [
+    {
+      "name": "traffic",
+      "file": "traffic.wav",
+      "sha256": "c3fb0a5a639e1d2d758ea3d13da172ff24abf8db571479a93dbc4468f654e421"
+    },
+    {
+      "name": "footsteps-and-bench",
+      "file": "footsteps-and-bench.wav",
+      "sha256": "2d9e6e834ea14ae7a9efa876ba92a68fe09f6f293bc7bee94f191414c3e05b21"
+    },
+    {
+      "name": "earphone-instrumental",
+      "file": "earphone-instrumental.wav",
+      "sha256": "502d0feb85100cffd2d10e4077858fcdbb0ee9a30c5919b8177c67c1429a5157"
+    },
+    {
+      "name": "phone-ring-and-vibration",
+      "file": "phone-ring-and-vibration.wav",
+      "sha256": "4e851d777b5e88ff82093c04a51fc1fe2bdc64dffc20f647618f9e2f7106ec89"
+    }
+  ],
+  "mix": {
+    "sample_rate": 48000,
+    "samples": 2448000,
+    "seconds": 51,
+    "stereo": true,
+    "peak": 0.30401450395584106,
+    "final_sample_zero": true,
+    "sha256": "e33b125e9cd596724ff7cdc96ce91a7c85b6b66cbf3df705b3a17a48841544c6"
+  }
+}

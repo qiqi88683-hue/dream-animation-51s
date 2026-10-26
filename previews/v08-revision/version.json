@@ -1,0 +1,10 @@
+{
+  "version": "v08-revision",
+  "date": "2026-10-27",
+  "title": "08 · 无人声、模糊来电、腿部修复与信号式结尾",
+  "art_status": "v07整体认可；四项修改待本版反馈",
+  "audio_status": "非人声环境/电话/拟音/短暂耳机器乐；无对白/低语/呼吸/对白字幕",
+  "feedback": "feedback.md",
+  "entry": "index.html",
+  "technical_route": "../../TECHNICAL_ROUTE.md"
+}

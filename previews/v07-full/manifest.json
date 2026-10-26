@@ -1,8 +1,8 @@
 [
   {
     "file": "README.md",
-    "bytes": 2363,
-    "sha256": "4dc36edb44de4abc9354beac1ea66ead0e62b28d73156958cbd97bad349c6d69"
+    "bytes": 2487,
+    "sha256": "dd67b064731ac720c054865fd3d454bf6d118fed7b753ec88f265307f317e43a"
   },
   {
     "file": "downloads/v07-film.zip",
@@ -11,8 +11,8 @@
   },
   {
     "file": "feedback.md",
-    "bytes": 1073,
-    "sha256": "0e567914c07f7c330edb8f094b79d3ac389ecd89de942501d589713c28731be3"
+    "bytes": 1772,
+    "sha256": "e0dc87e161291d7aff6730d4224920e0afcdf7f3ce6b9f2c493b331140c8979c"
   },
   {
     "file": "index.html",
@@ -146,8 +146,8 @@
   },
   {
     "file": "version.json",
-    "bytes": 426,
-    "sha256": "d4999ae4c3fc959eb948b3ab27d923e5314ad4353644ad604060cc5d41d962db"
+    "bytes": 378,
+    "sha256": "7e19f6f64650efbbe317855772e6578cfba2f8e773f3024aa6d4696ffa6343fa"
   },
   {
     "file": "videos/dream-51s-1080p.mp4",

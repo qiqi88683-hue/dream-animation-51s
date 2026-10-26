@@ -1,0 +1,13 @@
+{
+  "id": "FilmShot06",
+  "sourceHash": "07cd1bbfc6596933a983375c8d9861fc47d50683e34ea762fb407e0f8404157f",
+  "baseHash": "c42261382e241b2daa38e3f190ec396b7678e2fb9c924249ecdb599336d92422",
+  "semanticHash": "b19c6660886156ef1eb06c6bc2e83c61d7430269e210dfc43cd2ec8a92acfbf6",
+  "start": 1140,
+  "frames": 240,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "codec": "h264",
+  "browserErrors": []
+}

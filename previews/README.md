@@ -2,7 +2,8 @@
 
 | 版本 | 内容 | 用户结论 | 查看 |
 |---|---|---|---|
-| v07 | 51秒七镜完整版、城市背景与分层人流 | 首版整片待审看 | [最新视频](v07-full/README.md) · [日志](v07-full/feedback.md) |
+| v08 | 去人声、模糊来电、腿部修复、信号式结尾 | 四项修改待审看 | [最新视频](v08-revision/README.md) · [日志](v08-revision/feedback.md) |
+| v07 | 51秒七镜完整版、城市背景与分层人流 | 整体认可，四项修改进入v08 | [预览](v07-full/README.md) · [日志](v07-full/feedback.md) |
 | v06 | 人物细节、取手机近景与柔和分色 | 方向认可，授权全片 | [预览](v06-details/README.md) · [日志](v06-details/feedback.md) |
 | v05 | 粗平行曲线、疏密浓淡与线场律动 | 线条效果已认可 | [预览](v05-parallel/README.md) · [日志](v05-parallel/feedback.md) |
 | v04 | 侧面步态、关节与空间层次测试 | 关节方向、画风需重做 | [预览](v04-sidewalk/README.md) · [日志](v04-sidewalk/feedback.md) |
