@@ -69,4 +69,4 @@ flowchart LR
 
 GitHub按previews/vNN-*保存实际媒体、关键帧、离线包、反馈与核验记录；根目录保留规格、进度和本说明。历史版本作为对照保留，当前发布沿用preview/prototype-v01分支。
 
-工程源码、字体与音频保存在现有Cloud工作区，并另做工程恢复备份；当前GitHub预览分支尚未发布可直接重建的完整工程。Cloud中可用npm run render:film继续制作，输出out/film-v08。Node依赖按锁文件恢复；音频重建使用独立Python环境。Linux/Chromium已验证，Mac的浏览器路径和跨平台一致性尚未实机验证。
+交接补充（2026-10-27）：已另发布[精简可运行工程ZIP](handoff/downloads/parallel-line-baseline-v08.zip)、[恢复验证](handoff/baseline-verification.json)、[复用工作流](handoff/WORKFLOW_SUMMARY.md)和[新脚本接手手册](handoff/HANDOFF_GUIDE.md)。完整历史探索仍保存在Cloud；此包包含生产/风格基线、锁文件、字体和音频，不含早期油画试验。新故事需适配剧情层，尚无任意分镜JSON通用加载器。Node依赖按锁文件恢复；音频重建使用独立Python环境。Linux/Chromium已验证，Mac开发与跨平台逐像素一致性尚未实机验证。
