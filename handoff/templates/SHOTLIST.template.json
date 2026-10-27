@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "contract_only_not_runtime_config": true,
+  "project_id": "replace_me",
+  "spec": {"fps": 30, "width": 1920, "height": 1080, "total_frames": 210},
+  "style": {"reference": "approved coarse continuous parallel curves", "palette": "to_be_defined", "resolution_parameters": "adapt_from_reference"},
+  "characters": [{"id": "subject_A", "identity": "replace_from_new_script", "proportions": "natural", "rig_and_handedness": "define_explicitly"}],
+  "world": {"units": "define_explicitly", "axes": "define_explicitly", "map_file": "replace_me"},
+  "shots": [
+    {"id": "S001", "start_frame": 0, "duration_frames": 120, "camera": {"type": "replace_me", "target_id": "subject_A", "path": "replace_me"}, "actions": [{"actor_id": "subject_A", "local_start": 0, "local_end": 120, "description": "replace_from_new_script"}], "props": [], "audio_events": [], "end_state": "define_continuity"},
+    {"id": "S002", "start_frame": 120, "duration_frames": 90, "camera": {"type": "replace_me", "target_id": "subject_A", "path": "replace_me"}, "actions": [], "props": [], "audio_events": [], "end_state": "define_continuity"}
+  ],
+  "notes": "Two-shot timing example only. Existing renderer does not load this file. Replace all story fields, implement adapters and synchronize timelines, render scripts and tests."
+}

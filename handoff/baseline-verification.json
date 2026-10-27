@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-27",
+  "source_reference_commit": "7746de6d3fe831a3dac8ecb460e2fac82c81e7d5",
+  "installation": "npm ci --ignore-scripts --no-audit --no-fund after clean extraction; 273 packages restored",
+  "typecheck": "passed",
+  "tests": {
+    "passed": 21,
+    "failed": 0,
+    "scope": "selected production/style fixture tests; three historical painting/motion tests omitted"
+  },
+  "render": "npm run render:film -- --quick",
+  "frames": [
+    {
+      "frame": 320,
+      "sha256": "25d9e9f2ceda7b626473962c24633119450123d55ca2c9388b56aef151f82b51",
+      "matches_published_v08_render": true
+    },
+    {
+      "frame": 560,
+      "sha256": "bf02d82a30140481e4461e5c955f982bc8998d3e75d73e516d9da4a77901afe5",
+      "matches_published_v08_render": true
+    },
+    {
+      "frame": 930,
+      "sha256": "78af704ccb30f5b31b35c0d814cdc20b6dfe20ec4df62d96810764ad2a9a21e7",
+      "matches_published_v08_render": true
+    },
+    {
+      "frame": 1422,
+      "sha256": "552011ff0f8897af8c7581f3534ab3a690317468e4b662e731c9462fccbe668c",
+      "matches_published_v08_render": true
+    },
+    {
+      "frame": 1455,
+      "sha256": "8b19b23bd42e6efefb893d98e42ca69a5c0ea06dc78d784a9f2e3ff85bef00c6",
+      "matches_published_v08_render": true
+    },
+    {
+      "frame": 1490,
+      "sha256": "4c0e9654558990c07555d7f0d98ba30d80ba5791b5bee3f97dac59663e01ab31",
+      "matches_published_v08_render": true
+    }
+  ],
+  "full_film_rerendered_in_this_handoff": false,
+  "platform": "Linux / Chromium; Mac unverified",
+  "npm_scripts_pruned": true,
+  "composition_catalog_pruned": true,
+  "clean_zip_restore": true,
+  "internal_manifest_verified": true,
+  "archive_sha256": "84afb1ae2438f2af20f52c9f8f2f69813d1e05ab2b2a154796207e8c25aad17e",
+  "restore_location": "isolated fresh directory, independent of original project node_modules and public assets",
+  "audio_rebuilt_during_handoff": false,
+  "audio_note": "Existing v08 audio/stems are included and file-hash verified; no TTS models required"
+}
