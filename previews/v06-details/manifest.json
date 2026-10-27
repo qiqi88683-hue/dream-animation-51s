@@ -1,0 +1,87 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 1679,
+    "sha256": "0173893747f934b0b72484164ba71ac801cdac27a0069cf60c6f6fa5bb72afa1"
+  },
+  {
+    "file": "downloads/v06-preview.zip",
+    "bytes": 15856295,
+    "sha256": "a8a08dbb9b3d52fdb7712a18acd9bd2ca25b6ad2cc9d2336e444d2b631e353c4"
+  },
+  {
+    "file": "feedback.md",
+    "bytes": 1633,
+    "sha256": "5d93d7c81feb621b12fe5191c8037a0316f7d3cc9aa1348f5a68b8a5a14b3a0a"
+  },
+  {
+    "file": "index.html",
+    "bytes": 1138,
+    "sha256": "ca8a8f0ef4ff86a01dbc8823fb871311d5dee9be644ba4f97ae8e9eab61abbc0"
+  },
+  {
+    "file": "records/DetailColorPreview-verification.json",
+    "bytes": 441,
+    "sha256": "f975dae2fdb5b9d5e0c60e94d4b7d9ec4134d9ef350f86945388e5305c570c1b"
+  },
+  {
+    "file": "records/HandDetailPreview-verification.json",
+    "bytes": 440,
+    "sha256": "ce7190f094994f95a623d7cb0442c245fb0289c46b8e83b1737718bf2f3f0704"
+  },
+  {
+    "file": "records/media-checks.json",
+    "bytes": 1089,
+    "sha256": "43a3205c36eb3c7185c0947701195892b1e108e8bbb02323173d418826114b51"
+  },
+  {
+    "file": "records/provenance.json",
+    "bytes": 1691,
+    "sha256": "c5fa6281bb9718f52dd651b8ca80a623986a666d0b55a461338708ff8742ded8"
+  },
+  {
+    "file": "stills/extract.png",
+    "bytes": 321776,
+    "sha256": "c13a43424eb1e1ad5af3e4f6977a9203445e392559e0b2b51014daa66c6a313a"
+  },
+  {
+    "file": "stills/hand-detail.png",
+    "bytes": 809159,
+    "sha256": "50f8578994845769be6064a1ae201de7860065b2903229c375eec104281bc3c9"
+  },
+  {
+    "file": "stills/poster.png",
+    "bytes": 501129,
+    "sha256": "c6fed25aa9b392bc6c0bfce209fdc3275915021f3b8f1939ea3f951cf8158148"
+  },
+  {
+    "file": "stills/read.png",
+    "bytes": 336686,
+    "sha256": "1cd742f3b78f833e74af72c8d82324bcf72209889dc13c8342da28981751f48e"
+  },
+  {
+    "file": "stills/return.png",
+    "bytes": 313635,
+    "sha256": "9575b00c27a7c36b121f5e1d9e2cb18769485121a3bac6a67413b767be9d3aa1"
+  },
+  {
+    "file": "version.json",
+    "bytes": 323,
+    "sha256": "416bd5d49cc7538998c340b98ca8b6a801256c2e713f6171b4a4070e40258e7b"
+  },
+  {
+    "file": "videos/hand-detail-720p.mp4",
+    "bytes": 3033187,
+    "sha256": "9492c2fa273380afa55afdf773d07f1c11f4a98e9259aa579d54d173b26b6679"
+  },
+  {
+    "file": "videos/preview-1080p.mp4",
+    "bytes": 7698825,
+    "sha256": "d25efe9934454f00926cb132ffb9b3d1b932bfd8ca0039bd7a91e448f97eca20"
+  },
+  {
+    "file": "videos/preview-720p.mp4",
+    "bytes": 2947754,
+    "sha256": "2760a8b338c7816fa5972329605bd68c9546d1367bd566de51277c211e62ad2a"
+  }
+]

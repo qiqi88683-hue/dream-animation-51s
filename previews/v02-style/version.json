@@ -1,0 +1,11 @@
+{
+  "version": "v02-style",
+  "title": "02 · 油画与素描方向",
+  "date": "2026-10-26",
+  "origin_directory": "review/style-v02",
+  "original_package": "downloads/original-v02-style.zip",
+  "art_status": "B方向通过",
+  "motion_status": "静态方向，非动画验收",
+  "feedback": "feedback.md",
+  "entry": "index.html"
+}

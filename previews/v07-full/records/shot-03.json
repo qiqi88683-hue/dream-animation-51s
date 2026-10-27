@@ -1,0 +1,13 @@
+{
+  "id": "FilmShot03",
+  "sourceHash": "13be9569488856c47dfe9c6bb920eec0b40a30f483c73044a97dacc19771ef87",
+  "baseHash": "97ba3f09d4266eb8e7e5283d9fcfd35fe3249af92805c515a222d1f7be9f908d",
+  "semanticHash": "196ea3a3147b29791bdbb182ac7a1eaf387613e3c9dfb16ca190d063299f6c48",
+  "start": 480,
+  "frames": 240,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "codec": "h264",
+  "browserErrors": []
+}

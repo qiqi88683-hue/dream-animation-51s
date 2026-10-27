@@ -1,0 +1,195 @@
+{
+  "backup": "/workspace/preview-backups/before-v04/review-original.tar",
+  "all_original_files_preserved": true,
+  "files": [
+    {
+      "previous_path": "review/README.md",
+      "current_paths": [
+        "previews/v03-painted/records/previous-review-catalog.md"
+      ],
+      "sha256": "27420b09352fec0e92216034d92d985c0075c303a193e575d9cf402fd46b01e5"
+    },
+    {
+      "previous_path": "review/painted-v03/B-style-preview-8s-1080p.mp4",
+      "current_paths": [
+        "previews/v03-painted/videos/B-style-preview-8s-1080p.mp4"
+      ],
+      "sha256": "44051de6a78a23dec29692ec09cf86807640c1821bd1adc067c80477383d2641"
+    },
+    {
+      "previous_path": "review/painted-v03/B-style-preview-8s-720p.mp4",
+      "current_paths": [
+        "previews/v03-painted/videos/B-style-preview-8s-720p.mp4"
+      ],
+      "sha256": "52370eaf3a45637b9f53f0378595561a2d0df7fba9e9eba22d40a753d3f691db"
+    },
+    {
+      "previous_path": "review/painted-v03/README.md",
+      "current_paths": [
+        "previews/v03-painted/records/original-README.md"
+      ],
+      "sha256": "cd0020b93480d62dbe949dc87b14b0d7d11a61a9e0fb6a8ca056a31d48cb7144"
+    },
+    {
+      "previous_path": "review/painted-v03/index.html",
+      "current_paths": [
+        "previews/v03-painted/records/original-index.html"
+      ],
+      "sha256": "38e5f489b621db1ba23b5bfe91c9a08db7fce2ad665339fe083706828bcf9beb"
+    },
+    {
+      "previous_path": "review/painted-v03/manifest.json",
+      "current_paths": [
+        "previews/v03-painted/records/original-manifest.json"
+      ],
+      "sha256": "249ba3adb4d301ed0aac426546adfcc4c85d637230e1e1980a1a5c1ac55f5441"
+    },
+    {
+      "previous_path": "review/painted-v03/poster.png",
+      "current_paths": [
+        "previews/v03-painted/stills/poster.png"
+      ],
+      "sha256": "b6140b7d266c84137070ac166a6dc26286e3c68497cd176db8162a8f2caba8e8"
+    },
+    {
+      "previous_path": "review/painted-v03/provenance.json",
+      "current_paths": [
+        "previews/v03-painted/records/original-provenance.json"
+      ],
+      "sha256": "5d6ece33052c3d350719ce4e374822b3741c1ab1b43216447513524812eef171"
+    },
+    {
+      "previous_path": "review/painted-v03/render-verification.json",
+      "current_paths": [
+        "previews/v03-painted/records/original-render-verification.json"
+      ],
+      "sha256": "a302c30aeee9d9360e42f2f283deceec0fcbbd61c6cc32d6f35f79bb8232082c"
+    },
+    {
+      "previous_path": "review/painted-v03.zip",
+      "current_paths": [
+        "previews/v03-painted/downloads/original-v03-painted.zip"
+      ],
+      "sha256": "df0594809a1ee871dae59b6c71d82f1e19969734e685f353660393f26b706402"
+    },
+    {
+      "previous_path": "review/prototype-v01/DialogueStudy-prototype-540p.mp4",
+      "current_paths": [
+        "previews/v01-vector/videos/DialogueStudy-prototype-540p.mp4"
+      ],
+      "sha256": "1c7489eb88b1c75468e3fa016b4340d03b372c438295cb862917ddf0931209ff"
+    },
+    {
+      "previous_path": "review/prototype-v01/README.md",
+      "current_paths": [
+        "previews/v01-vector/records/original-README.md"
+      ],
+      "sha256": "7ceec84bb5da0edd3e97489f96850635b978325106e9f038a84f9cc32a2278d3"
+    },
+    {
+      "previous_path": "review/prototype-v01/Shot01-prototype-540p.mp4",
+      "current_paths": [
+        "previews/v01-vector/videos/Shot01-prototype-540p.mp4"
+      ],
+      "sha256": "7fd0553ffc08f887fb389005578e2d628826513bebe63683a37406375bd38b48"
+    },
+    {
+      "previous_path": "review/prototype-v01/index.html",
+      "current_paths": [
+        "previews/v01-vector/records/original-index.html"
+      ],
+      "sha256": "189399023ea3b39ec26d36d48905024c07bcbee1b3089526cfb8e80bb9b73b94"
+    },
+    {
+      "previous_path": "review/prototype-v01/manifest.json",
+      "current_paths": [
+        "previews/v01-vector/records/original-manifest.json"
+      ],
+      "sha256": "4e5b05879677757ab938258ac4768c1981e3728bbecef5ef2ba02e7e4218e1f2"
+    },
+    {
+      "previous_path": "review/prototype-v01/style-board.png",
+      "current_paths": [
+        "previews/v01-vector/stills/style-board.png"
+      ],
+      "sha256": "891854370d82e8e0ec7d80e186c59b9762da059affadc9ce99520f76cf61eccd"
+    },
+    {
+      "previous_path": "review/prototype-v01.zip",
+      "current_paths": [
+        "previews/v01-vector/downloads/original-v01-vector.zip"
+      ],
+      "sha256": "9d6c6b71060f7055199d8ef4ad38b272e54e083427256bacbc5691290e4e517c"
+    },
+    {
+      "previous_path": "review/style-v02/README.md",
+      "current_paths": [
+        "previews/v02-style/records/original-README.md"
+      ],
+      "sha256": "6920a02fe799860cee933fe2788aa5d005499f42d823ce38b854baf0fae37a39"
+    },
+    {
+      "previous_path": "review/style-v02/dense-curves-direction.png",
+      "current_paths": [
+        "previews/v02-style/stills/dense-curves-direction.png"
+      ],
+      "sha256": "20a9b435dd3dbd60084e7f23a6ad3136bde12685d55c67bd7cba7d5186ce520d"
+    },
+    {
+      "previous_path": "review/style-v02/index.html",
+      "current_paths": [
+        "previews/v02-style/records/original-index.html"
+      ],
+      "sha256": "3d1fc29c07432b15d93998b195c69d10cb81592523c0011a504256ecc9895d1a"
+    },
+    {
+      "previous_path": "review/style-v02/manifest.json",
+      "current_paths": [
+        "previews/v02-style/records/original-manifest.json"
+      ],
+      "sha256": "b0d2764a516dc318714d75dd71f813cba29edeef1a223be01ad23200925fe79b"
+    },
+    {
+      "previous_path": "review/style-v02/oil-sketch-direction.png",
+      "current_paths": [
+        "previews/v02-style/stills/oil-sketch-direction.png"
+      ],
+      "sha256": "2bde947a589e34aa07d03d756c7f1835c3debf71051a9519ec25f8e66be9bfd3"
+    },
+    {
+      "previous_path": "review/style-v02/provenance.json",
+      "current_paths": [
+        "previews/v02-style/records/original-provenance.json"
+      ],
+      "sha256": "b625cd876e4363be40f91575d2141911d1049d305415d1b044f344e16ac506a2"
+    },
+    {
+      "previous_path": "review/style-v02/stroke-stability-4s.mp4",
+      "current_paths": [
+        "previews/v02-style/videos/stroke-stability-4s.mp4"
+      ],
+      "sha256": "7d6dc237a4c1c6d51e9ed4c315d09ece63e7ecb907d75008fed09356ccd5d983"
+    },
+    {
+      "previous_path": "review/style-v02/stroke-study.png",
+      "current_paths": [
+        "previews/v02-style/stills/stroke-study.png"
+      ],
+      "sha256": "f2efeb03e212b2f81a27e7a0ef49e831e26507993a430daab3e1d9fcc8339b48"
+    },
+    {
+      "previous_path": "review/style-v02/verification.json",
+      "current_paths": [
+        "previews/v02-style/records/original-verification.json"
+      ],
+      "sha256": "e8ed59cc61a5d35c2b6922ba8696888167fb25a980ec9a913099ed44e3c9c8e5"
+    },
+    {
+      "previous_path": "review/style-v02.zip",
+      "current_paths": [
+        "previews/v02-style/downloads/original-v02-style.zip"
+      ],
+      "sha256": "ce24f5731cb66753e0a1dd31d7a220500722f8a385877a9871206d54d08d31ce"
+    }
+  ]
+}

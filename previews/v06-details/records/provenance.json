@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-26",
+  "basis": "User explicitly approved v05 and requested readable character/hand/phone details with subdued hero/crowd/background color separation",
+  "method": "Same procedural continuous coarse parallel-curve family, analytic volume/density field; role colors follow same paths; a small number of local contour/seam cues; no painted image textures or newly generated assets",
+  "source_sha256": {
+    "src/detail/action.ts": "42529f8e0615793ab9744213aca4f84800008d151082f2e1723ad84d2e49b320",
+    "src/detail/scene.ts": "6546955ee53139dff8191361b591e7019f7ef5ebea380f1fdd60175a2a94e1e8",
+    "src/detail/DetailColorPreview.tsx": "2b5c1e473ae7321918d4825c4b367b2b210ead8a944890f6a72df1dd2680f9b4",
+    "src/parallel/field.ts": "0d8e997397ad2df8a5934afdc4fbf4542507ee2e0309b3530614340b27a9be83",
+    "src/spatial/gait.ts": "855dff7e3fc9b4d8ba0ef785192f4e2ef1ab20aab78941239b50a7c4da7338d7",
+    "src/Root.tsx": "88d50927be043583dcecefb955116fb2f1066959aee21830bbb978d2be90d1d0",
+    "scripts/render-details.mjs": "98cb803862fb4788a0ec18da7599e07418b33a5349ca79245890624130efc0c7",
+    "tests/detail.test.ts": "3007c020ddc6741ef946952a0c1081cb93b692d122f359b0d22ce7e5e5961536"
+  },
+  "actions": "Left hand/left pocket, watch on left wrist; one phone follows hand, emerges through pocket occlusion; 3s wide color study plus 6s closeup action; independent 6s hand enlargement",
+  "scope": "Not a completed original shot or final film; returning phone is a continuity test; no decline or chest-touch animation here",
+  "audio": "Temporary city ambient; no formal voice lines",
+  "approval": "v05 visual direction approved; v06 added details/colors pending user review"
+}

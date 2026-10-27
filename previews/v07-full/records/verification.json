@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-27",
+  "tests": "TypeScript typecheck and all 20 tests passed",
+  "shots": [
+    {
+      "id": "FilmShot01",
+      "sourceHash": "cfd4a31806d9dc0e1945cab6a41b543e23157546aa7e1bb900bdf074f5e96064",
+      "start": 0,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "codec": "h264",
+      "browserErrors": [],
+      "semanticHash": "65cabfd5dd835fb49a18911af9f576cc1b32948214900c4f0c3e5c0a7545d5e9",
+      "baseHash": "97ba3f09d4266eb8e7e5283d9fcfd35fe3249af92805c515a222d1f7be9f908d",
+      "sha256": "093bf106c1b7ff70f9d48564874c0e4702cd3813825465e742581069df8f5d23"
+    },
+    {
+      "id": "FilmShot02",
+      "sourceHash": "cfd4a31806d9dc0e1945cab6a41b543e23157546aa7e1bb900bdf074f5e96064",
+      "start": 300,
+      "frames": 180,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "codec": "h264",
+      "browserErrors": [],
+      "semanticHash": "15b1be92d2289a40e64edcac07d83c625e536accd07e8f7742af7b406a09ee14",
+      "baseHash": "97ba3f09d4266eb8e7e5283d9fcfd35fe3249af92805c515a222d1f7be9f908d",
+      "sha256": "45f4d77d1865c3ca614690c904beb00041b6aa6e221b0efb75a0e47c403f5c74"
+    },
+    {
+      "id": "FilmShot03",
+      "sourceHash": "13be9569488856c47dfe9c6bb920eec0b40a30f483c73044a97dacc19771ef87",
+      "baseHash": "97ba3f09d4266eb8e7e5283d9fcfd35fe3249af92805c515a222d1f7be9f908d",
+      "semanticHash": "196ea3a3147b29791bdbb182ac7a1eaf387613e3c9dfb16ca190d063299f6c48",
+      "start": 480,
+      "frames": 240,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "codec": "h264",
+      "browserErrors": [],
+      "sha256": "e27af11084dfb25b8396a3b492f5cb27319158d6efab6d579000cd0c267e24dd"
+    },
+    {
+      "id": "FilmShot04",
+      "sourceHash": "cfd4a31806d9dc0e1945cab6a41b543e23157546aa7e1bb900bdf074f5e96064",
+      "start": 720,
+      "frames": 120,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "codec": "h264",
+      "browserErrors": [],
+      "semanticHash": "60d460960656924e04fed0abf1cb29ee5ff540d3b2fe60936a8f1f1613262e24",
+      "baseHash": "97ba3f09d4266eb8e7e5283d9fcfd35fe3249af92805c515a222d1f7be9f908d",
+      "sha256": "61bd9253e75aba3847aad95a56fbc00d3f8cd57d5e56269df1c962438bc9f7f9"
+    },
+    {
+      "id": "FilmShot05",
+      "sourceHash": "cfd4a31806d9dc0e1945cab6a41b543e23157546aa7e1bb900bdf074f5e96064",
+      "start": 840,
+      "frames": 300,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "codec": "h264",
+      "browserErrors": [],
+      "semanticHash": "ef2681ed9ca246c923b8b5aba62af2f00a3f2ac57d7107c3c98162bb2ba01a75",
+      "baseHash": "97ba3f09d4266eb8e7e5283d9fcfd35fe3249af92805c515a222d1f7be9f908d",
+      "sha256": "e3fb1e31dc867ca35273b3d99c45c66da056d39d226e049c35c24e59f7a2b9f4"
+    },
+    {
+      "id": "FilmShot06",
+      "sourceHash": "cfd4a31806d9dc0e1945cab6a41b543e23157546aa7e1bb900bdf074f5e96064",
+      "start": 1140,
+      "frames": 240,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "codec": "h264",
+      "browserErrors": [],
+      "semanticHash": "7735a4550897e6f157f0e9fc68ffec87d1b275fa1fecf6a3e215976d3989a3c6",
+      "baseHash": "97ba3f09d4266eb8e7e5283d9fcfd35fe3249af92805c515a222d1f7be9f908d",
+      "sha256": "25ad9de490507bfeaa5946b076d57f7723b6c6160edc63249878d92150f781b0"
+    },
+    {
+      "id": "FilmShot07",
+      "sourceHash": "cfd4a31806d9dc0e1945cab6a41b543e23157546aa7e1bb900bdf074f5e96064",
+      "start": 1380,
+      "frames": 150,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "codec": "h264",
+      "browserErrors": [],
+      "semanticHash": "cfc7a97cae73142afd9917b080cb17dade7cc2d7732cd1a2942d3264e3347ffd",
+      "baseHash": "97ba3f09d4266eb8e7e5283d9fcfd35fe3249af92805c515a222d1f7be9f908d",
+      "sha256": "3faca8941bec6dc6107db0c1661949c238bff55ee2f06c87986ddfae7d6fd6d1"
+    }
+  ],
+  "media": [
+    {
+      "file": "videos/dream-51s-1080p.mp4",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "frames": 1530,
+      "fps": 30,
+      "seconds": 51.0,
+      "codec": "h264",
+      "audio": "aac stereo",
+      "full_decode": true,
+      "faststart": true,
+      "last_frame_white": true,
+      "final_audio_tail_peak": 3.98164993384853e-05,
+      "bytes": 57379065,
+      "sha256": "18913c6a85ac5e5f7359309fea3cf8f7d22c27f486be90987a071341832c2661"
+    },
+    {
+      "file": "videos/dream-51s-720p.mp4",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "frames": 1530,
+      "fps": 30,
+      "seconds": 51.0,
+      "codec": "h264",
+      "audio": "aac stereo",
+      "full_decode": true,
+      "faststart": true,
+      "last_frame_white": true,
+      "final_audio_tail_peak": 3.98164993384853e-05,
+      "bytes": 37443868,
+      "sha256": "0b10280410211b951f037649b9096a1fabfb3fad87432283655db9a98fb6b16b"
+    }
+  ],
+  "independent_frame": {
+    "frame": 930,
+    "determinism": true,
+    "sha256": "b13fad9369cb4a81fc5365a3e451d71c327992337808ad642da2e54ebe63cfef",
+    "browserErrors": []
+  },
+  "audio": {
+    "sample_rate": 48000,
+    "samples": 2448000,
+    "seconds": 51,
+    "stereo": true,
+    "peak": 0.7554195234554236,
+    "final_sample_zero": true
+  },
+  "full_route": "map lower right to lower left then southwest traffic-light bench, stable world geometry",
+  "crowd": "30 persistent IDs, finite queues in separated lanes, reserved protagonist lane; subdued lower-leg-only cues at POV edges",
+  "review_scope": "Keyframes and seven-shot contact sheet visually checked; full streams decoded. Artistic judgment and synthetic voice emotional performance remain for user review."
+}

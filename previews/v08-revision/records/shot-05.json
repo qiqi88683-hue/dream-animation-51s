@@ -1,0 +1,13 @@
+{
+  "id": "FilmShot05",
+  "sourceHash": "07cd1bbfc6596933a983375c8d9861fc47d50683e34ea762fb407e0f8404157f",
+  "baseHash": "c42261382e241b2daa38e3f190ec396b7678e2fb9c924249ecdb599336d92422",
+  "semanticHash": "b94280d3cab40fc703034a3abd084ab4b4210dbe9dd9bc7f694ae8789b2fc0f6",
+  "start": 840,
+  "frames": 300,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "codec": "h264",
+  "browserErrors": []
+}

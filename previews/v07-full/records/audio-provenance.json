@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-27",
+  "voices": {
+    "engine": "kokoro-onnx 0.4.9",
+    "model": "Kokoro-82M v1.0",
+    "model_license": "Apache-2.0",
+    "engine_license": "MIT",
+    "model_url": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx",
+    "voice_url": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin",
+    "sha256": {
+      "kokoro-v1.0.onnx": "7d5df8ecf7d4b1878015a32686053fd0eebe2bc377234608764cc0ef3636a6c5",
+      "voices-v1.0.bin": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+    },
+    "g2p": "misaki 0.9.4 ZHG2P",
+    "cues": [
+      {
+        "id": "f1-question",
+        "text": "你觉得他能接吗？",
+        "voice": "zf_xiaoxiao",
+        "synthetic": true,
+        "start": 852,
+        "end": 899,
+        "file": "f1-question.wav",
+        "seconds": 1.5666666666666667,
+        "phonemes": "ni↓ ʨɥe↗tɤ tʰa→ nə↗ŋ ʨje→ ma?",
+        "sha256": "da35de2f0707478580d407d1a69859ff16db5d6828526124fb51cbac06312b1c"
+      },
+      {
+        "id": "f2-answer",
+        "text": "可能会吧。",
+        "voice": "zf_xiaoyi",
+        "synthetic": true,
+        "start": 929,
+        "end": 961,
+        "file": "f2-answer.wav",
+        "seconds": 1.0666666666666667,
+        "phonemes": "kʰɤ↓nə↗ŋ xwei↘ pa.",
+        "sha256": "5583744480822007378cbfb55cd41b4a1ce83d1b6efdaece3a5c8041fa50656b"
+      },
+      {
+        "id": "f1-after",
+        "text": "唉，看来还是不想见我。",
+        "voice": "zf_xiaoxiao",
+        "synthetic": true,
+        "start": 1148,
+        "end": 1211,
+        "file": "f1-after.wav",
+        "seconds": 2.1,
+        "phonemes": "ai→, kʰa↘nlai↗ xai↗ʂɨ↘ pu↘ɕja↓ŋ ʨjɛ↘n wo↓.",
+        "sha256": "e9f3d766d53bbcf5bb173096fe843ddca2207a30e76c38613c6244c40a857a2b"
+      }
+    ],
+    "synthetic_disclosure": "Two synthetic female voices; no real-person voice clone; not human performance"
+  },
+  "other_audio": "Original deterministic procedural traffic, nonverbal crowd murmur, footsteps, bench creak, short diegetic earphone phrase, ringtone/vibration and subtle breathing; no third-party music recordings",
+  "mix": {
+    "sample_rate": 48000,
+    "samples": 2448000,
+    "seconds": 51,
+    "stereo": true,
+    "peak": 0.7554195234554236,
+    "final_sample_zero": true
+  },
+  "validation": "All phonemes resolved; no unknown marker; utterances not truncated; answer starts exactly 30 frames after question file ends. Acoustic Mandarin/emotional performance remains subject to listening review."
+}

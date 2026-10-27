@@ -1,0 +1,13 @@
+{
+  "id": "FilmShot07",
+  "sourceHash": "07cd1bbfc6596933a983375c8d9861fc47d50683e34ea762fb407e0f8404157f",
+  "baseHash": "c42261382e241b2daa38e3f190ec396b7678e2fb9c924249ecdb599336d92422",
+  "semanticHash": "e54d611e5c74b143f914147b71e3a472bc2d943bf278ca3002716148a448154e",
+  "start": 1380,
+  "frames": 150,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "codec": "h264",
+  "browserErrors": []
+}

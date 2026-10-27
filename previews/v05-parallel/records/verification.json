@@ -1,0 +1,42 @@
+{
+  "createdAt": "2026-10-26T15:24:17.582Z",
+  "composition": "ParallelPreview",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 240,
+  "seconds": 8,
+  "independentFrameHash": "ce6f745049c2aa29713d36cf0edbb559369b62db40eec17d4b8a56a1a1fcf6c6",
+  "determinism": true,
+  "browserErrors": [],
+  "method": "ordered continuous parallel-curve relief field; coarse strokes and local shadow line density; no painted image textures",
+  "media_checks": [
+    {
+      "file": "videos/preview-1080p.mp4",
+      "size": [
+        1920,
+        1080
+      ],
+      "frames": 240,
+      "fps": 30,
+      "full_decode": true,
+      "faststart": true,
+      "bytes": 6300660,
+      "sha256": "e1c300356a8034a4913c360f29d3d4d04e1362db5276dcd0751488d35383284d"
+    },
+    {
+      "file": "videos/preview-720p.mp4",
+      "size": [
+        1280,
+        720
+      ],
+      "frames": 240,
+      "fps": 30,
+      "full_decode": true,
+      "faststart": true,
+      "bytes": 2380377,
+      "sha256": "69df7e5b8a10de481afe067d3f4a83af8a1a78bb5a555f492adbe7b70a436f12"
+    }
+  ],
+  "tests": "13 tests passed, including knee/elbow bend directions and ordered/reproducible parallel field"
+}

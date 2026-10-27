@@ -1,0 +1,72 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 1695,
+    "sha256": "f2fe4596a2f758a66e8808cc5a91304ccffdfe002bded952ea6423231d9a1fc0"
+  },
+  {
+    "file": "downloads/v04-preview.zip",
+    "bytes": 33229645,
+    "sha256": "6bbc4eb3889057013bfaf3cdca915f93dfed2bed725276fd87dad1a5cc4cc95d"
+  },
+  {
+    "file": "feedback.md",
+    "bytes": 1597,
+    "sha256": "31bfc147664a1adb9ba90a0942f15799f61e55534d6a558dd834a6e92b6f6e50"
+  },
+  {
+    "file": "index.html",
+    "bytes": 1063,
+    "sha256": "39bf94ee5d06a56a709f851521674c1405c3ec4c96dac47d704921c915314e81"
+  },
+  {
+    "file": "records/layout-migration.json",
+    "bytes": 6932,
+    "sha256": "d235111e57e27421cce4a95d9357e7bd47677675e2da6d98f159e8eb97ffa806"
+  },
+  {
+    "file": "records/provenance.json",
+    "bytes": 824,
+    "sha256": "323731bb8b760cdce869d4ada19c332248d3efc084e294b7dfcba1bbaea05a71"
+  },
+  {
+    "file": "records/verification.json",
+    "bytes": 1390,
+    "sha256": "36dfb242cc190fe8d51c7f21df03aa55eaa0286d9fdde316b25a0f89a7df8777"
+  },
+  {
+    "file": "stills/frame-000.png",
+    "bytes": 4068407,
+    "sha256": "91fb5fde6fab8612e7ca0240dfd5ab119b88a47edf908cdf54f9f697f9bb9025"
+  },
+  {
+    "file": "stills/frame-180.png",
+    "bytes": 3999044,
+    "sha256": "82dd302c2a41d457d9d18d0af252eb096600af974b03b6bb76333eba9270e42a"
+  },
+  {
+    "file": "stills/frame-239.png",
+    "bytes": 4024551,
+    "sha256": "67371939292baa76ff25f82ae2356d3df4631477d86e42e8ac230b5f96f756a3"
+  },
+  {
+    "file": "stills/poster.png",
+    "bytes": 4008693,
+    "sha256": "ff91b5c7c45808696e70be73116a212446c1c9aa94205891fa23445f19302968"
+  },
+  {
+    "file": "version.json",
+    "bytes": 294,
+    "sha256": "69542e4379c20e362322499907e3563f19f53cfb0da758886cacb794d93ed1b9"
+  },
+  {
+    "file": "videos/preview-1080p.mp4",
+    "bytes": 13915880,
+    "sha256": "b63d3905c0ed8c10107f51f53ea51978f9587804003465e56bee05519e1c4ece"
+  },
+  {
+    "file": "videos/preview-720p.mp4",
+    "bytes": 3211492,
+    "sha256": "cfc13f674cfb4e26ae2f288f4a56d7e5bf87018140ea94460c8179bffe32e8a0"
+  }
+]

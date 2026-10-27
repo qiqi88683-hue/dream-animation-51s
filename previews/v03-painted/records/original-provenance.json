@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-26",
+  "style": "B explicitly approved by user",
+  "animation": "deterministic layered mesh cutout animation in Canvas/Remotion",
+  "assets": [
+    {
+      "file": "background.png",
+      "sha256": "3838307a7421eab5b92411a03993c74921c28d8ede6b928add6ed879a0ad02cc",
+      "source": "image_gen derived from accepted B reference",
+      "role": "fixed painted background or RGBA character layer"
+    },
+    {
+      "file": "hero.png",
+      "sha256": "0ba8b5a6e4b9047c23e1ba9cf5f7a785c21b4342f4faf75e7513e36d455f7e0a",
+      "source": "image_gen derived from accepted B reference",
+      "role": "fixed painted background or RGBA character layer"
+    },
+    {
+      "file": "passer-man.png",
+      "sha256": "a08bebc986967a0e079ad626420e3d7a68feaa8d439323349c580c7f1a74fd6f",
+      "source": "image_gen derived from accepted B reference",
+      "role": "fixed painted background or RGBA character layer"
+    },
+    {
+      "file": "passer-woman.png",
+      "sha256": "07d0b0555f1e64ceb6b5ba740cbc1910321e11d3f4a8a1ea18956331b93cf607",
+      "source": "image_gen derived from accepted B reference",
+      "role": "fixed painted background or RGBA character layer"
+    }
+  ],
+  "audio": "procedural city ambient placeholder; no final human voices",
+  "limits": "8s independent style/motion preview, not a finished storyboard shot or full film"
+}
